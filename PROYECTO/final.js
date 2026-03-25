@@ -20,4 +20,4 @@ if (age < 12 ){
 }
 price = basePrice - (basePrice * discount / 100);
 
-console.log("El precio de su tiquete es:," price);
+console.log("El precio de su tiquete es:", price);
